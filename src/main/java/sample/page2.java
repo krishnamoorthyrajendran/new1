@@ -16,19 +16,5 @@ public page2(WebDriver driver) {
 	this.driver=driver;
 }
 
-public WebElement title1()
-{
-	return driver.findElement(title);
-	
-}
-public WebElement title5()
-{
-	return driver.findElement(title);
-	
-}
-public WebElement title6()
-{
-	return driver.findElement(title);
-	
-}
+
 }
